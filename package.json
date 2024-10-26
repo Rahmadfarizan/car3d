@@ -5,7 +5,6 @@
   "keywords": [
     "lightformer"
   ],
-  "homepage": "https://rahmadfarizan.github.io/car3d/",
   "main": "src/index.js",
   "dependencies": {
     "@pmndrs/branding": "0.0.8",
