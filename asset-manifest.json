@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/car3d/static/css/main.48587fd3.css",
+    "main.js": "/car3d/static/js/main.819475de.js",
+    "index.html": "/car3d/index.html",
+    "main.48587fd3.css.map": "/car3d/static/css/main.48587fd3.css.map",
+    "main.819475de.js.map": "/car3d/static/js/main.819475de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48587fd3.css",
+    "static/js/main.819475de.js"
+  ]
+}

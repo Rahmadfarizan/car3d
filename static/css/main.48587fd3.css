@@ -1,0 +1,2 @@
+@import url(https://rsms.me/inter/inter.css);*{box-sizing:border-box}#root,.container,body,html{height:100%;margin:0;padding:0;width:100%}body{background:#000;color:#fff;font-family:Inter}a{color:#000;color:#fff;pointer-events:all;text-decoration:none}svg{fill:#fff}@keyframes fade-in{0%{opacity:0}to{opacity:1}}canvas{animation:fade-in 5s ease .5s forwards;opacity:0;touch-action:none}
+/*# sourceMappingURL=main.48587fd3.css.map*/
