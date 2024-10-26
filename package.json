@@ -12,6 +12,7 @@
     "@react-three/drei": "9.56.22",
     "@react-three/fiber": "8.11.0",
     "@types/three": "0.149.0",
+    "building-live-envmaps": "github:rahmadfarizan/car3d",
     "lamina": "1.1.23",
     "leva": "0.9.34",
     "r3f-perf": "7.2.1",
